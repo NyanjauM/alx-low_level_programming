@@ -5,11 +5,11 @@
  */
 int main(void)
 {
-	pritntf("Size of char: %lu\n", sizeof(char));
-	pritntf("Size of int: %lu\n", sizeof(int));
-	pritntf("Size of float: %lu\n", sizeof(float));
-	pritntf("Size of long int: %lu\n", sizeof(long int));
-	pritntf("Size of long long int: %lu\n", sizeof(long long int));
+	printf("Size of char: %lu\n", sizeof(char));
+	printf("Size of int: %lu\n", sizeof(int));
+	printf("Size of float: %lu\n", sizeof(float));
+	printf("Size of long int: %lu\n", sizeof(long int));
+	printf("Size of long long int: %lu\n", sizeof(long long int));
 
 	return 0;
 }
