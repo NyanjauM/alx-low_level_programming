@@ -6,9 +6,9 @@
  */
 int main(void)
 {
-	for (char alphab = 'a'; alphab = 'z'; alphab++)
+	for (char x = 'a'; x  = 'z', x++)
 	{
-		putchar(alphab);
+		putchar(x);
 
 	}
 
