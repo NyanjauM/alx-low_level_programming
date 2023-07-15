@@ -1,14 +1,11 @@
-/**
- * positive_or_negative
- * Positive anything is better than negative nothing
- */
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
 
-/*
- * main - assigns a randm number to variable n and states whether
+/**
+ * main - assigns a random number to variable n and states whether
  * it is a positive, negative or a zero
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
