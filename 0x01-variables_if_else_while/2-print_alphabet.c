@@ -12,7 +12,7 @@ int main(void)
 
 	Alph_lower = 'a';
 	while
-       		(Alph_lower <= 'z){
+       		(Alph_lower <= z){
 	
 			putchar (Alph_lower);
 			Alph_lower++:
