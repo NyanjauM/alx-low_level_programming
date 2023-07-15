@@ -1,3 +1,7 @@
+/**
+ * positive_or_negative
+ * Positive anything is better than negative nothing
+ */
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
