@@ -11,7 +11,10 @@ int main(void)
 	char Alph_lower;
 
 	for (Alph_lower = 'a'; Alph_lower = 'z'; Alph_lower++)
+	{
+	
 		putchar (Alph_lower);
-
+	}
+	putchar('\n')
 	return (0);
 }
