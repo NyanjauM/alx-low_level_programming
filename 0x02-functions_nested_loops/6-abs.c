@@ -1,6 +1,7 @@
 #include "main.h"
 
-/** _abs - get abolute value of an integer
+/**
+ * _abs - get abolute value of an integer
  * @c : number to be computed.
  * Return: Absolute value
  */
