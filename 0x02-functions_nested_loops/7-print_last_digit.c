@@ -16,3 +16,4 @@ if (last < 10)
 }
 _putchar(last + '0');
 return (last);
+}
