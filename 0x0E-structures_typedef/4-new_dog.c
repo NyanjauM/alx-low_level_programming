@@ -3,7 +3,7 @@
 
 /**
  * _strlen - returns the length of a string
- * @s; string to evaluate
+ * @s: string to evaluate
  *
  * Return: the length of the string
  */
@@ -54,11 +54,12 @@ char *_strcpy(char *dest, char *src)
  * @age: age of the dog
  * @owner: owner of the dog
  *
- * Retuen: pointer to the new dog (Success), Null otherwise
+ * Return: pointer to the new dog (Success), Null otherwise
  */
 dog_t *new_dog(char *name, float age, char *owner)
 {
 	dog_t *dog;
+
 	int len1, len2;
 
 	len1 = _strlen(name);
